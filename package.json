@@ -1,0 +1,15 @@
+{
+    "name": "baidu-tongji",
+    "version": "0.0.0",
+    "description": "载入百度统计脚本",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:purely-smile/load-baidu-tongji.git"
+    }
+}
