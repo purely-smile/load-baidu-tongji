@@ -4,6 +4,6 @@ module.exports = function(id) {
     }
     var elm = document.createElement('script');
     elm.src = '//hm.baidu.com/hm.js?' + id;
-    let body = document.getElementsByTagName('body')[0];
+    var body = document.getElementsByTagName('body')[0];
     body.appendChild(elm);
 }

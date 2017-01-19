@@ -1,6 +1,6 @@
 {
     "name": "baidu-tongji",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "载入百度统计脚本",
     "main": "index.js",
     "scripts": {
